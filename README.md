@@ -1,2 +1,8 @@
 # OCR-collection
-OCR test
+## OCR test case including:
+
+Noise removal 
+
+License Plate Detection and OCR processing
+
+Multi language street sign OCR processing
