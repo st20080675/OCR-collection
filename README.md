@@ -1,5 +1,5 @@
 # OCR-collection
-## OCR test case including:
+## OCR projects including cases:
 
 Noise removal 
 
